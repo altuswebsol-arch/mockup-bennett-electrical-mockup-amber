@@ -1,5 +1,7 @@
 # Bennett Electrical Mockup Amber — Website Mockup Concept
 
+**Live demo:** https://altuswebsol-arch.github.io/mockup-bennett-electrical-mockup-amber/
+
 A homepage redesign concept for **Bennett Electrical Mockup Amber** — a electrical business.
 
 ## Design
